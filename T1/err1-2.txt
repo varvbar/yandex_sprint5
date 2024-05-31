@@ -1,0 +1,3 @@
+Append random: 10ms
+Reverse: 632ms
+Counting: 1ms

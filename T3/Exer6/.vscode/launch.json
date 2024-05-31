@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/varvbar/projects/practicum/sprint5/T3/Exer6",
+      "program": "/Users/varvbar/projects/practicum/sprint5/T3/Exer6/build/Debug/outDebug"
+    }
+  ]
+}
